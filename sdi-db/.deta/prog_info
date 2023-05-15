@@ -1,0 +1,1 @@
+{"id":"7cb91c00-b5d5-4e7e-879a-ab4cc8a3fdf9","space":50982,"runtime":"nodejs14.x","name":"sdi-db","path":"hne95y","project":"d06dh4jc","account":"144798365827","region":"ap-south-1","deps":["express@^4.18.2","cors@^2.8.5","deta@^1.1.0","moment@^2.29.4"],"envs":null,"public":true,"log_level":"debug","cron":"30 18 * * ? *"}

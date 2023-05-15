@@ -1,0 +1,1 @@
+{"id":"e645ba01-2436-4d50-b335-ec197961f191","space":50982,"runtime":"nodejs14.x","name":"sdi-admin-live","path":"hygpqz","project":"d06dh4jc","account":"144798365827","region":"ap-south-1","deps":["cors@^2.8.5","express@^4.18.2"],"envs":null,"public":true,"log_level":"off","cron":""}
